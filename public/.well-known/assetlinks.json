@@ -3,6 +3,8 @@
       "target": {
         "namespace": "android_app",
         "package_name": "app.vercel.focus_flow_app_three.twa",
-        "sha256_cert_fingerprints": ["35:78:23:10:AC:35:43:9B:7D:08:38:96:13:1C:52:02:2D:DE:DC:3B:3F:53:62:8C:4B:52:9D:F6:5E:F4:46:46"]
+        "sha256_cert_fingerprints": [
+          "35:78:23:10:AC:35:43:9B:7D:08:38:96:13:1C:52:02:2D:DE:DC:3B:3F:53:62:8C:4B:52:9D:F6:5E:F4:46:46",
+          "B6:23:31:65:AD:18:CC:ED:39:0E:2B:18:C4:24:7F:14:C4:72:B3:76:05:B5:B1:DA:37:51:B1:3E:86:E9:72:12"]
       }
     }]
